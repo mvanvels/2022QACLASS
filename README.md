@@ -5,3 +5,4 @@ Jonah Westercamp
 PABLO ALVARADO
 Christian Douthart
 Jessica Canny
+Katherine DeLong
