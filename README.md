@@ -2,3 +2,4 @@
 Sam Bachman
 Jonah Westercamp
 PABLO ALVARADO
+Christian Douthart
