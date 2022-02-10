@@ -10,3 +10,4 @@ Tayah Spiker
 Chad Walker
 Quan Dang
 Kaleb Wagler
+Garl Norman
