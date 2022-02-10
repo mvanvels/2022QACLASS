@@ -6,3 +6,4 @@ PABLO ALVARADO
 Christian Douthart
 Jessica Canny
 Katherine DeLong
+Tayah Spiker
